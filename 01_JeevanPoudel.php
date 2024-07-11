@@ -1,3 +1,9 @@
+
+<!-- 01. Develop a PHP program for an online store. If a user's cart total is over $100, apply a
+10% discount; if it's over $50, apply a 5% discount; otherwise, no discount. Display the
+final amount to be paid. -->
+
+
 <?php
 
 

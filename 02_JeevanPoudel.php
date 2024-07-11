@@ -1,3 +1,9 @@
+
+<!-- 02.  Create a PHP program that converts temperatures from Celsius to Fahrenheit. Ask the
+user for a temperature in Celsius and use a conditional statement to check if it's below
+freezing (below 0°C) or not. Provide an appropriate message. -->
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
