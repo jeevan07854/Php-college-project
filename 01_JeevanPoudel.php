@@ -21,7 +21,7 @@ $finalamount *= 0.95;}
 $amount=60;
 $calculatedfinalamount = finalprice($amount);
 
-echo ("Total Amount = $". $calculatedfinalamount);
+echo ("Total = $". $calculatedfinalamount);
 
 
 
