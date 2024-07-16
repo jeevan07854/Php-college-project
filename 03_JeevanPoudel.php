@@ -1,8 +1,3 @@
-<!-- Write a PHP program that asks for a person's age and citizenship status. If the person is
-both 18 or older and a citizen, display "You are eligible to vote"; otherwise, display "You
-are not eligible to vote." -->
-
-
 <!DOCTYPE html>
 <html>
 <head>
