@@ -8,7 +8,7 @@
 <body>
     
 <?php
-$email = ($_POST)
+echo "Hello"
 ?>
 </body>
 </html>
